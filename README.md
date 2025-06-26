@@ -29,7 +29,7 @@ This project demonstrates **linear regression from scratch in C**, using gradien
   ```
 
 ### 2️⃣ Clone or Download This Project
-- Place the files in a folder, e.g. `C:/Users/MEHR/OneDrive/Documents/Desktop/MLinC`
+- Place the files in a folder, e.g. `C:/Users/sui/OneDrive/Downloads/MLinC`
 
 ### 3️⃣ Open in VS Code
 - Open the folder in VS Code.
